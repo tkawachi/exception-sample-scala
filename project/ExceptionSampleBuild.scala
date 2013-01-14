@@ -10,7 +10,7 @@ object ExceptionSampleBuild extends Build {
       name := "Exception Sample",
       organization := "net.pikot",
       version := "0.1-SNAPSHOT",
-      scalaVersion := "2.9.2"
+      scalaVersion := "2.10.0"
       // add other settings here
     )
   )
